@@ -1,0 +1,2 @@
+# rade
+ogrenmek-icin
